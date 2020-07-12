@@ -1,0 +1,340 @@
+
+.h-symbol
+{
+  background-color: rgba(0, 0, 0);
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+
+}
+
+.nav-link
+{
+    color: #f4f4f4 !important;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.navbar-brand
+{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.nav-item
+{
+    padding-right: 80px;
+}
+.navbar-nav .navbar
+{
+    padding-right:100px;
+}
+
+
+
+
+
+
+.sec-2
+{
+  text-align: center;
+  font-family: 'Grenze Gotisch', cursive;
+
+
+  padding: 7% 11%;
+  background: url(https://wallpapercave.com/wp/wp5055095.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+
+}
+.s4-h1
+{
+  font-size: 6em;
+
+}
+.s4-h2
+{
+  font-size: 2em;
+
+}
+.s4-h3
+{
+  font-size: 5em;
+
+
+}
+.h-1
+{
+    font-size: .8em;
+    font-weight: bold;
+
+}
+.g-img
+{
+  width: 25%;
+}
+
+
+
+.sec-3
+{
+  font-family: 'Grenze Gotisch', cursive;
+  background: url(https://img3.goodfon.com/wallpaper/nbig/1/ca/raznoe-podarok-podarochek-1850.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+
+  text-align: center;
+
+  padding: 7% 15%;
+
+}
+
+.mb
+{
+  font-size: 9em;
+
+}
+
+
+
+
+
+.sec-4
+{
+  text-align: center;
+font-family: 'Grenze Gotisch', cursive;
+  padding: 7% 13%;
+  background: url(https://hdwallsource.com/img/2014/10/lovely-gift-wallpaper-40091-41027-hd-wallpapers.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+.s5-h1
+{
+  font-size: 5em;
+  font-weight: bold;
+}
+
+
+
+.sec-6
+{
+  text-align: center;
+font-family: 'Grenze Gotisch', cursive;
+  padding: 7% 15%;
+  background: url(https://wallpaperset.com/w/full/d/2/c/201882.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+
+}
+.s6-h1
+{
+  font-size: 5em;
+  font-weight: bold;
+}
+.s6-h3
+{
+  font-size: 3em;
+  font-weight: bold;
+
+}
+.s6-hr
+{
+  font-size: 2.5em;
+  font-weight: bold;
+
+}
+.worth
+{
+  font-size: 1.5em;
+
+
+}
+
+
+
+
+.carousel-item
+{
+  font-family: 'Grenze Gotisch', cursive;
+
+    text-align:center;
+    height:600px;
+    padding-top:8%;
+
+    color: white;
+}
+.foot
+{
+  background: url(https://i.pinimg.com/originals/00/50/81/005081a95b8710a374b809e45d2ec9be.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.fab
+{
+  padding: 30px;
+}
+.slide-h1
+{
+  font-weight: bolder;
+  text-align: center;
+  padding: 80px;
+  font-size: 4em;
+}
+.slideshow
+{
+  margin: 5%;
+  font-family: 'Grenze Gotisch', cursive;
+
+
+}
+.r-r
+{
+  font-size: 3em;
+  padding: 50px;
+  font-weight: bolder;
+
+}
+
+
+
+
+.cec-1
+{
+  font-family: 'Grenze Gotisch', cursive;
+  text-align: center;
+  line-height: 60px;
+  padding: 4%;
+  color: white
+
+
+
+
+}
+.cn
+{
+  font-family: 'Grenze Gotisch', cursive;
+}
+.workings
+{
+  background: url(https://pbs.twimg.com/media/DZM5V_bVMAAsVqA.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.workings-2
+{
+  background: url(https://www.watisbest.com/wp-content/uploads/2019/09/ecom.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: black;
+}
+
+.c1-h1
+{
+  font-size: 5em;
+  font-weight: bold;
+}
+.c1-h1-2
+{
+  font-size: 5em;
+  font-weight: bold;
+  color: black;
+}
+
+
+.c1-p
+{
+  font-size: 2.5em;
+}
+.c1-p-2
+{
+  font-size: 2.5em;
+  color: black;
+}
+
+
+
+.container
+{
+  padding-bottom:8%;
+}
+.changing-1
+{
+  font-family: 'Grenze Gotisch', cursive;
+  text-align: center;
+  padding: 100px;
+
+}
+
+
+.r_image
+{
+  max-width: 100%;
+max-height: 100%;
+
+}
+
+
+
+.p_sec-1
+{
+  color: white;
+  background-color: black;
+  font-size: 2.5em;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 100px;
+  background: url(https://wallpapercave.com/wp/wp5457469.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.support
+{
+  background: url(https://lol-stats.net/uploads/sXVt5QxlnT3ox6JYg0nf5gvuFxy4iCB7BccmaX8a.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-align: center;
+  height: 600px
+
+
+
+
+}
